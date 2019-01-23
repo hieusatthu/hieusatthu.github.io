@@ -1,0 +1,1169 @@
+@media only screen and (max-width: 1199px)
+{
+            *{}
+            .img-grounp.service-design img{
+                width: 100%;
+            }
+            .wraper-option-service-design{
+             margin-left: 0px;
+            }
+            .option-service-design-top{
+                text-align: left;
+            }
+            .img-grounp.tips-new{
+                width: 10%;
+                margin-right: 5%;
+            }
+            .text-item-tips-new{
+                float: left;
+            }
+            .detail-item-tips-new,.option-tips-new{
+                border-bottom: 1px dotted gray;
+            }
+            .img-grounp.hiden{
+                display: none;
+             }
+             .option-download-bottom{
+                margin-top: 0;
+            }
+            /*service planting*/
+            .question.planting>p{
+                padding-left: 12px;
+            }
+            /*blog*/
+            .text.blog{
+                padding-top: 16px;
+            }
+            /*blog detail*/
+            .title-sm-2.blog-detail{
+                font-size: 16px;
+            }
+            .detail-reccent-new.blog-detail{
+                padding-top: 12px;
+            }
+            .title-sm-2.blog-detail{
+                padding-bottom: 8px;
+            }
+            /*shop fullwidth*/
+            .add-to-cart.shop{
+              width: 100%;
+            }
+            .box-filter.img-filter{
+                display: none;
+            }
+            .box-filter{
+                width: 24%;
+            }
+            .img-grounp.tips-new.slidebar{
+              width: 30%;
+
+            }
+
+}
+@media only screen and (max-width: 992px)
+{
+            .action-menu{
+                position: absolute;
+                right: 2em;
+                z-index: 9999;
+            }
+            .img-logo{
+             margin-left: 2em;
+             display: inline-block;
+             margin-bottom: 2em;
+             padding-right: 0px;
+            }
+            .wraper-menu>.container {
+            width: 100%;
+            padding: 0;
+
+            }
+            nav.nav-menu {
+            clear: both;
+            float: left;
+            width: 100%;
+            }
+            nav.nav-menu ul li {
+            display: block;
+            }
+            .main-menu>li>a{
+            padding: 15px 0px;
+
+            }
+            .main-menu>li{
+            border-bottom: 1px dotted gray;
+            padding-left: 2%;
+            padding-right: 2%;
+
+            }
+            .main-menu>li:first-child{
+            margin-top: 25px;
+            border-top: 1px dotted gray;
+            padding-left: 2%;
+
+
+            }
+            .action-bars,.btn-down.c1,.btn-down.c2{
+            display: inline-block;
+            }
+            .main-menu,.hiden-follow-us>a.home-store-2{
+            display: none;
+            }
+            .btn-down{
+            float: right;
+            }
+            .wraper-menu-c2,.wraper-menu-c1{
+            display: none;
+            transform: translateY(0px);
+            }
+            .sub-menu-c1:hover>.wraper-menu-c1,.sub-menu-c2:hover>.wraper-menu-c2{
+            transform: translateY(0px);
+            display: none;
+            }
+            .wraper-menu-c1 li{
+            padding-top: 10px;
+            }
+            .wraper-menu-c1{
+            padding-top: 0;
+            width: 100%;
+            padding: 0!important;
+            margin: 0;
+            }
+            .action-form{
+            padding-top: 36px;
+            }
+            .wraper-my-project{
+            padding-bottom: 36px;
+            }
+            .text-contact-now h4{
+            font-size: 18px;
+            }
+            .text-contact-now p{
+            font-size: 14px;
+            }
+            /*home service 2*/
+            .wraper-service-home-2{
+            width: 50%;
+            }
+            .text-main p{
+            padding-top: 0px;
+            }
+            .text-main h2{
+            padding-bottom: 12px;
+            font-size: 50px;
+            }
+            .img-why-choose-home-2,.content-why-choose-home-2,.wraper-map-and-form .map,.wraper-form{
+            width: 100%;
+            }
+            .wraper-slide-feedback-h2{
+            width: 90%;
+            }
+            .title-why-choose-home-2{
+            text-align: center;
+            }
+            .control-slide-feedback-home-2 a.carousel-control{
+            width: 40px;
+            height: 40px;
+            }
+            .wraper-slick-brand img{
+            padding-left: 60px;
+            padding-right: 60px;
+            }
+            .waper-the-garden,.contact-info,.navigation,.Subcribe-footer-home-2{
+            padding-bottom: 24px;
+            padding-top: 12px;
+            }
+            .wraper-footer-home-2 p,.wraper-footer-home-2 a,.content-contact-info a span,#email-footer::-webkit-input-placeholder,.text-main p{
+            font-size: 13px;
+            }
+            button.btn-action-h2{
+            padding: 6px  12px;
+            }
+            button.btn-action-h2>a{
+            font-size: 12px;
+            }
+            .title-sm{
+            font-size: 20px;
+            }
+
+            /*home store */
+          
+
+            h4.title-sm.about-project {
+            font-size: 12px;
+            }
+            .wraper-input-email {
+            width: 100%;
+            }
+            /*banner img   */
+            .text-banner-product a {
+            padding: 20px 30px;
+            }
+            .detail-banner-product.tertiary,.detail-banner-product.tertiary>.img-wraper>img  {
+            width: 100%;
+            }
+            .detail-banner-product.first,.detail-banner-product.seconnd {
+            margin: 0;
+            width: 50%;
+            padding: 16px;
+            }
+            .detail-banner-product.tertiary{
+            padding-left: 2.5%;
+            padding-right: 2.5%;
+            margin-left: 0;
+            }
+            /*home store 2*/
+            .carousel-indicators.home-store-2{
+            display: none;
+            }
+            .detail-tips-home-store-2 {
+            margin-bottom: 24px;
+            }
+            .content-tips.left,.img-wraper.tips{
+            width: 100%;
+            }
+            .detail-tips-home-store-2{
+            padding: 12px 48px;
+            }
+            .action-slide-main.home-store-2
+            {
+            text-align: center!important;
+            } 
+            .wraper-new-product.top-equiment{
+            padding-top: 12px;
+            }
+            /*home portfolio*/
+            .detail-hiden-gallery a p{
+            display: none;
+            }
+            /*about us*/
+            
+            .wraper-about-story{
+                padding-bottom: 0;
+            }
+            .wraper-about.about-us{
+                padding-top: 0;
+            }
+            /*service design*/
+            .detail-project.service-design{
+                margin-bottom: 24px;
+            }
+            .bottom-service-design,.wraper-project.service-design{
+                padding-bottom: 24px;
+            }
+            .text.service-design{
+               padding-top: 36px;
+            }
+            .nav-menu.watering-garden{
+                background-color: #f7f7f7;
+            }
+            .nav-menu.watering-garden>ul>li>a{
+                color: #636363;
+            }
+            .wraper-menu-c1,.wraper-menu-c2{
+                 /* background-color: #f7f7f7; */
+                 border: none;
+            }
+            /*service planting*/
+            .wraper-about-service-left.planting{
+                padding-top: 36px;
+            }
+            /*gallery-detail*/
+            .about.gallery-detail>h3{
+              font-size: 16px;
+            }
+            .action-img-main>i{
+             padding: 12px;
+            }
+            /*blog*/
+            .below.blog-col-9{
+                padding-bottom: 50px;
+            }
+            /*blog detail*/
+            .right.blog-detail{
+                padding-left: 15px;
+            }
+            .detail-reccent-new.note{
+                padding: 12px 0px;
+                border-bottom: 1px dotted #636363;
+            }
+            /*shop fullwidth*/
+            .content-fillter-shop-fw{
+                padding-left: 10px;
+                padding-right: 10px;
+            }
+             .img-grounp.tips-new.slidebar{
+                width: 10%;
+              
+             }
+             /*shop slidebar*/
+             .box-filter.note.shop-slidebar{
+                display: none;
+             }
+             .page-index.shop-slidebar{
+                margin-top: 36px;
+             }
+             .detail-img-main.product-detail img{
+             width: 100%;
+             height: auto;
+             }
+             .right.product-detail{
+                padding-top: 50px;
+             }
+             /*shopping-cart*/
+             .right.detail-shopping-cart{
+                width: 100%;
+                padding-top: 48px;
+             }
+             .left.detail-shopping-cart{
+                width: 100%;
+                text-align: center!important;
+                padding-top: 12px;
+             }
+             .input-top.shopping-cart{
+                width: 75%;
+             }
+             .input-top.shopping-cart input{
+                width: 100%;
+             }
+             .action-slide-main.apply{
+                width: 25%;
+             }
+              .action-slide-main.apply button{
+                width: 100%;
+              }
+              .promotrional-code{
+                margin-top: 36px;
+              }
+              .sub-menu-c1{
+                clear: both;
+              }
+
+}
+@media only screen and (max-width: 768px){
+            .top-page-left{
+                display: none;
+            }
+            .top-page-right {
+                width: 100%;
+                text-align: center;
+            }
+
+            .wraper-detail-baner {
+                margin-right: 0;
+            }
+            button.btn-action {
+                padding: 6px 12px;
+            }
+            button.btn-action a {
+                font-size: 12px;
+            }
+
+            .wraper-img-instagram {
+                width: 16%;
+                margin-right: 2px;
+            }
+            .working-hours {
+                margin-top: 24px;
+            }
+            .about-company,.twitter-feed {
+                margin-bottom: 16px;
+            }
+            .wraper-feedback-clident {
+                padding-bottom: 36px;
+                padding-top: 36px;
+            }
+            .detail-service-home-2{
+                padding-left: 12px;
+                padding-right: 12px;
+            }
+            .content-feedback i p {
+                line-height: 24px;
+                font-size: 13px;
+            }
+
+            .text-banner h4 {
+                padding-top: 16px;
+            }
+
+            .text-blog p,.text-blog a h4 {
+                padding-bottom: 10PX;
+            }
+
+            .text-blog {
+                padding-top: 24px;
+            }
+
+            .wraper-our-blog {
+                padding-top: 48px;
+                padding-bottom: 48px;
+            }
+
+            .top-our-blog {
+                padding-bottom: 24px;
+            }
+
+            .detail-blog {
+                width: 48%;
+                float: left;
+            }
+
+            .img-blog {
+                padding-bottom: 80%;
+            }
+
+            .img-blog img,.img-banner img,.wraper-detail-baner,.wraper-slide-feedback-h2 {
+                width: 100%;
+            }
+
+            .detail-blog.first {
+                width: 100%;
+                padding-bottom: 6%;
+            }
+
+            .detail-project {
+                width: 50%;
+            }
+
+            .btn-slide {
+                width: 50px;
+                height: 50px;
+            }
+            .text-contact-now {
+                text-align: center;
+            }
+
+            .action-contact {
+                width: 100%;
+                text-align: center;
+                margin-top: 12px;
+            }
+
+            .text-contact-now h4 {
+                font-size: 20px;
+            }
+
+            .text-main h2 {
+                font-size: 38px;
+                margin-bottom: 14px;
+            }
+
+            .text-main p {
+                margin-bottom: 20px;
+                font-size: 14px;
+            }
+
+            .detail-slide-home {
+                padding-top: 0px;
+                padding-bottom: 0px;
+            }
+
+            .wraper-slide-home {
+                height: auto;
+            }
+
+            .img-banner {
+                padding-bottom: 58%;
+            }
+
+            .wraper-detail-baner {
+                margin-top: 20px;
+            }
+            /*home 2*/
+            .text-banner-product a {
+                padding: 12px 16px;
+            }
+            .text-main h2{
+              font-size: 36px;
+              padding-bottom: 12px;
+              margin-bottom: 0;
+           }
+           .text-main p{
+            padding-bottom: 0;
+            font-size: 11px;
+            line-height: 24px;
+            }
+            .wraper-wellcome-garden,.wraper-project-gallery,.content-why-choose-home-2{
+                padding-top: 50px;
+                padding-bottom: 50px;
+            }
+            .title-home-2{
+                font-size: 28px;
+            }
+            .title{
+                font-size: 22px;
+            }
+            p.small-title{
+                font-size: 13px;
+            }
+            .wraper-service-home-2{
+                padding-top: 36px;
+                padding-bottom: 36px;
+            }
+            .option-project-gallery ul li a{
+                text-transform: capitalize;
+                transform: translateY(-5px);
+                display: inline-block;
+            }
+            .wraper-why-choose-home-2{
+                padding-top: 10px;
+                padding-bottom: 12px;
+            }
+            .text-why-choose-home-2 a h4{
+                font-size: 16px;    display: block;
+                width: 100%;
+                overflow: hidden;
+                white-space: nowrap;
+                text-overflow: ellipsis;
+            }
+            .wraper-slide-feedback-h2{
+                padding: 17px 36px;
+            }
+            .control-slide-feedback-home-2 a.carousel-control{
+                display: none;
+            }
+            .wraper-slide-feedback-home-2{
+                padding-top: 72px;
+                padding-bottom: 72px;
+            }
+            .detail-box-content.tips-first{
+                width: 100%;
+            }
+            .detail-box-content.tips-first .img-box{
+                padding-bottom: 45%;
+            }
+            .detail-box-content.tips-first .img-box img{
+                width: 100%;
+            }
+            .detail-box-content.tips-second{
+             width: 48%;
+             margin-top: 24px; 
+             float: left;
+             margin-right: 2%;
+            }
+
+            .detail-box-content.tips-tertiary{
+                margin-top: 24px; 
+                width: 48%;
+                float: right;
+            }
+            .text-box-content>a{
+                padding-top: 12px;
+                padding-bottom: 12px;
+            }
+            .navigation{
+                margin-right: 30%;
+            }
+            .text-service-home-2 p,.wraper-cart{
+                padding-left: 0px;
+                padding-right: 0px;
+            }
+            .wraper-footer-home-2 .container,.wraper-banner-product,.wraper-new-product{
+                padding-bottom: 30px!important;
+            }
+            .wraper-slick-brand,.footer,.wraper-box-content,.subcribe-home-store {
+                padding-top: 32px;
+                padding-bottom: 32px;
+            }
+            .wraper-footer-home-2,.wraper-about {
+                padding-top: 36px;
+            }
+            .text-slide.home-service p {
+                padding-bottom: -25px;
+                margin-bottom: 24px;
+            }
+
+            .text-slide.home-service h2 {
+                font-size: 34px;
+                padding-bottom: -17px;
+                line-height: 24px;
+            }
+            /*home strore*/
+            .wraper-about-project{
+                padding: 64px 0px;
+            }
+            .wraper-detail{
+                padding-bottom: 24px;
+            }
+            .img-box.home-store{
+              padding-bottom: 100%!important;
+            } 
+            .detail-box-content{
+                margin-bottom: 24px;
+            }
+            .action-decoration{
+                text-align: left!important;
+            }
+            .input-form-homestroe-2{
+                display: none;
+            }
+            /*home store 2*/
+            .text-main.home-store-2 h2{
+                line-height: 40px;
+                font-weight: 500;
+                font-weight: 40px;
+            }
+            /*coming soon*/
+            .title.coming-soon{
+                font-size: 36px;
+            }
+            /*service-design*/
+            .text.service-design,.bottom-service-design{
+                padding-top: 0px;
+            }
+            .text.service-design.note{
+                padding-top: 24px!important;
+            }
+            .text.service-design.note ul li{
+                padding: 8px 0px;
+            }
+            .title-sm-2.service-design{
+                font-size: 16px;
+                margin-bottom: 0;
+            }
+            .text-item-tips-new{
+                width: 70%;
+            }
+            .wraper-menu.watering{
+                background: none;
+            }
+            .img-grounp.service-planting,.text.service-planting{
+                width: 100%;
+                padding: 0;
+
+            }
+            .img-grounp.service-planting img{
+                width: 100%;
+            }
+            .wraper-project.planting {
+               padding-bottom: 0px;
+            }
+            .title-sm-2.big{
+             font-size: 17px;
+            }
+            .question.planting>p{
+                font-size: 13px;
+            }
+            .wraper-about-ceo.planting {
+                padding-top: 12px;
+            }
+            .brand.planting{
+
+            }
+            .img-grounp.blog img{
+                width: 100%;
+                padding-bottom: 24px;
+            }
+            .max-text-h-200{
+                height: 100px;
+            }
+            .form.blog>input{
+                padding: 12px;
+            }
+            .detail-action-col-9.blog i{
+                display: none;
+            }
+            .detail-action-col-9.blog button{
+                font-size: 12px;
+            }
+            .title-sm-2.big.blog{
+                font-size: 22px;
+            }
+            .input-top.note{
+                margin-top: 24px;
+            }
+            .box-filter{
+                width: 100%;
+                margin-top: 24px;
+            }
+            .box-filter.tags{
+                margin-left: 0%;
+            }
+            .new-product.shop a h4{
+                padding-top: 12px;
+            }
+            .form.blog.slidebar{
+               display: none;
+            }
+            .text-left.shop-slidebar{
+                padding-left: 0px;
+            }
+            /*product detail*/
+            .content.product-detail{
+                padding-top: 24px;
+                padding-bottom: 36px;
+            }
+            .action-contact.product-detail{
+                text-align: left;
+            }
+            .action-contact.product-detail{
+                text-align: left;
+                width: auto;
+                float: right;
+                display: inline-block;
+                margin-top: 0px;
+            }
+            .top-page-right.product-detail{
+                width: auto;
+            }
+            th.is-hiden,td.is-hiden{
+                display: none;
+            }
+            .wraper-shopping-cart.pd-t-100{
+                padding-top: 36px;
+            }
+            .action.shopping-cart.pd-t-36{
+                padding-top: 12px;
+            }
+            .cart-totals.shopping-cart{
+                padding-top: 12px;
+            }
+            .input-top.shopping-cart{
+                width: 100%;
+                padding-bottom: 24px;
+            }
+            .action-slide-main.apply{
+                width: 20%;
+                float: none;
+                display: block;
+                margin: 0 auto;
+            }
+            .other-compelete.compelete{
+                padding-top: 36px;
+                padding-bottom: 24px;
+            }
+            .other-compelete.compelete .container .top{
+                padding-left: 24px;
+                padding-right: 24px;
+            }
+            /*contact*/
+            .wraper-keep-in-touch.contact {
+                padding-top: 36px;
+                padding-bottom: 24px;
+            }
+
+}
+@media only screen and (max-width: 576px){
+            .content-slide-feedback-home-2 p i {
+                display: block;
+                width: 100%;
+                overflow: hidden;
+                height: 83px;
+                /* white-space: nowrap; */
+                text-overflow: ellipsis;
+                padding-bottom: 20px;
+            }
+
+            .option-project-gallery {
+                width: 100%;
+                text-align: center;
+                margin-bottom: 12px;
+            }
+
+            .title-project-gallery {
+                width: 100%;
+                text-align: center;
+            }
+
+            .bottom-cart a p {
+                font-size: 12px;
+            }
+
+            .text-cart a {
+                font-size: 12px;
+            }
+
+            .cart-info {
+                width: 250px;
+            }
+
+            .content-feedback {
+                padding-left: 24px;
+                padding-right: 24px;
+            }
+
+            .content-about {
+                padding-top: 24px;
+                padding-bottom: 24px;
+            }
+            .icon-about,.text-content-about h4 {
+                margin-bottom: 12px;
+            }
+
+            .text-content-about h4 {
+            font-size: 16px;
+            }
+
+            .text-content-about h4 {}
+            .wraper-content-about {
+                padding-bottom: 16px;
+                width: 80%;
+                margin-left: auto;
+                margin-right: auto;
+            }
+
+            .btn-slide {
+                width: 36px;
+                height: 36px;
+            }
+
+            /*// home 2*/
+            button.btn-action-h2{ 
+                padding: 0px  12px;
+            }
+            button.btn-action-h2>a{
+                font-size: 8px;
+            }
+            .text-main h2 {
+                font-size: 24px;
+                margin-bottom: -18px;
+            }
+
+            .text-main p {
+                font-size: 10px;
+                line-height: 16px;
+                margin-bottom: 9px;
+            }
+            .left.carousel-control, .right.carousel-control{
+                margin-left: 0;
+                margin-right: 0;
+            }
+            .title-project-gallery h2{
+                font-size: 24px;
+            }
+          
+            .text-slide.home-service p {
+            margin-bottom: 6px;
+            }
+
+            .text-slide.home-service h2 {
+            font-size: 24px;
+            line-height: 24px;
+            margin-bottom: 5px;
+            }
+
+            .text-footer-portfolio>h3 {
+            font-size: 18px;
+            }
+            /*home store*/
+            .text-main>i>p{
+                display: none;
+            }   
+            .text-banner-product{
+                right: 0;
+                bottom: 0;
+            } 
+            .text-banner-product a{
+                padding: 4px 12px;
+                font-size: 12px;
+            }
+            .add-to-cart>a{
+               font-size: 9px;
+            }
+            .action-decoration{
+            padding-top: 0;
+            }
+            /*home store 2*/
+            .text-main p.home-store-2,.text-tips,.content-slide-feedback-home-2>p{
+            width: 200px;
+            overflow: hidden;
+            white-space: nowrap;
+            text-overflow: ellipsis;
+            }
+            .text-main.home-store-2>h2{
+            line-height: 30px;
+            font-size: 30px;
+            padding-bottom: 24px;
+            }
+            .text-tips,.content-slide-feedback-home-2>p{
+            width: 90%;
+            }
+            .text-main.home-store-2>h2{
+            font-size: 18px;
+            }
+            /*about us*/
+            *{}
+            .content-our-story{
+                padding-top: 24px;
+                padding-bottom: 24px;
+            }
+           .content-our-story p{
+            font-size: 14px;
+            padding: 6px  0;
+            }
+             .bootom  ul li:last-child{
+            padding-left: 0;
+            padding-top: 34px;
+            }
+            .question.watering >i{
+               padding: 6px;
+            }
+            .question.watering>p{
+                padding: 0px 8px;
+                font-size: 13px;
+            }
+            .title.watering>h2{
+                font-size: 20px;
+            }
+            .answer>p{
+                float: right;
+            }
+            .action-menu.watering-garden{
+                padding-top: 12px;
+            }
+            .img-logo.watering{
+                margin-top: 0px;
+            }
+            .brand.planting>a{
+                width: 100px;
+            }
+            .wraper-about-service.planting{
+                padding-top: 30px;
+            }
+            .text.service-planting>p{
+                padding: 16px 0px;
+            }
+            .wraper-about-service.planting{
+                padding: 24px 0px;
+            }
+            /*gallery detail*/
+            .about.gallery-detail>h3{
+                font-size: 12px;
+            }
+            .below.gallery-detail>p{
+                font-size: 11px;
+            }
+            .detail-img-main{
+                width: 100%;
+            }
+            .img-main.left{
+                width: 100%;
+            }
+            .img-small.right{
+                width: 100%;
+                display: flex;
+            }
+            .img-small.right .detail-img-option:first-child{
+                margin-left: 0;
+            }
+            .img-small.right .detail-img-option{
+                margin-top: 12px;
+                margin-left: 6px;
+
+            }
+            .wraper-slide-product.gallery-detail{
+                padding-top: 36px;
+            }
+            .contact-gallery-datail{
+                padding-bottom: 36px;
+            }
+            .detail-action-col-9.blog button{
+                font-size: 10px;
+            }
+            /*shopping-cart*/
+            th.is-hiden-second,td.is-hiden-second{
+                display: none;
+            }
+            .right.detail-shopping-cart{
+                padding-top: 24px;
+            }
+            .wraper-shopping-cart.pd-t-100{
+                padding-bottom: 36px;
+            }
+            .action-slide-main.apply{
+                width: 30%;
+            }
+            .billing-country-text p{
+                font-size: 13px;
+                text-transform: unset;
+            }
+
+}
+@media only screen and (max-width: 376px)
+{
+            .wraper-slick-brand img {
+                padding-left: 24px;
+                padding-right: 24px;
+            }
+
+            .detail-box-content.tips-second,.detail-box-content.tips-tertiary {
+                width: 100%;
+            }
+
+            .wraper-service-home-2 {
+                width: 100%;
+                padding-top: 16px;
+                padding-bottom: 24px;
+            }
+
+            .btn-cats {
+                display: none;
+            }
+
+            .top-page {
+                padding-top: 6px;
+                padding-bottom: 6px;
+            }
+            .text-twitter p {
+                border: none;
+            }
+
+            .left-working p, .right-working p,.content-working-hours  {
+                font-size: 12px;
+            }
+            .content-twitter ,.text-new-product>p{
+                font-size: 12px;
+            }
+            .working-hours {
+                border-top: 1px solid #e9dcdc;
+                padding-top: 20px;
+            }
+            .twitter-feed {
+                border-bottom: 1px solid #e9dcdc;
+            }
+
+            .about-company {}
+
+            .about-company p {
+                font-size: 12px;
+                line-height: 22px;
+            }
+
+            .about-company {
+                border-bottom: 1px solid #d5c6c6f7;
+            }
+
+            .wraper-our-blog ,.wraper-contact-now,.wraper-about-project{
+                padding-bottom: 24px;
+                padding-top: 24px;
+            }
+
+            .detail-blog {
+                width: 100%;
+                margin-bottom: 20px;
+            }
+            .text-contact-now h4 {
+                font-size: 16px;
+            }
+            .top-about p ,.btn-slide i,.text-new-product .title-sm{
+                font-size: 14px;
+            }
+
+            .title {
+                font-size: 28px;
+                margin-bottom: 12px;
+            }
+            .wraper-about,.title-sm {
+                padding-top: 24px;
+            }
+
+            .text-main p {
+                margin-bottom: 8px;
+            }
+
+            .btn-slide {
+                width: 25px;
+                height: 25px;
+            }
+            .text-main h2 {
+                font-size: 22px;
+                margin-bottom: -18px;
+            }
+            .text-main p {
+                font-size: 12px;
+                display: none;
+            }
+            *{}
+            /*home store */
+            .text-decoration>p{
+                font-size: 10px;
+                line-height: 16px;
+            }
+            .wraper-detail.txt-center>h3{
+                padding-bottom: 0;
+                margin-bottom: 0;
+            }
+            .title-sm.about-project{
+                font-size: 10px!important;
+            }
+            .container.watering{
+                width: 100%;
+                padding: 0px;
+            }
+            .wraper-question-answer.watering{
+                padding: 24px 12px;
+                width: 100%;
+            }
+
+}
+@media only screen and (max-width: 450px)
+{
+            .btn-action.subcribe{
+                width: 38%;
+            }
+            .input-email{
+                width: 62%;
+            }
+            .img-product>a{
+                height: 190px
+            }
+}
+@media (max-width: 320px){
+
+}
+@media only screen and (max-width: 320px)
+{
+
+
+    button.btn-action {
+        padding: 2px 6px;
+    }
+
+    button.btn-action a,.text-contact-now p  {
+        font-size: 12px;
+    }
+
+    .text-contact-now h4 {
+        font-size: 14px;
+    }
+    .img-logo {
+        padding-right: 0px;
+    }
+    .title {
+        font-size: 25px;
+    }
+    *{}
+
+    .bottom-footer p {
+        font-size: 8px;
+    }
+
+    .detail-why-choose-home-2 {
+        width: 100%;
+        box-shadow: 0px 3px 3px -3px;
+    }
+
+    .title-home-2 {
+        font-size: 20px;
+    }
+
+    .wraper-project-gallery {
+        padding-top: 24px;
+        padding-bottom: 12px;
+    }
+
+    .top-wellcome-garden {
+        padding-bottom: 12px;
+    }
+
+    .top-wellcome-garden h2 {
+        font-size: 20px;
+        font-weight: 600;
+        margin-bottom: 6px;
+    }
+
+    .top-wellcome-garden p {
+        font-size: 12px;
+    }
+    /*home 2*/
+}

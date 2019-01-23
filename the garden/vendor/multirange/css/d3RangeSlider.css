@@ -1,0 +1,59 @@
+.slider-container {
+    background-color: #ebebeb;
+    height: 10px!important;
+}
+
+.slider {
+    position: absolute;
+    background: #8bc052;
+    height: 10px;
+    width: 100%;
+    cursor: pointer;
+    opacity: 1;
+}
+
+.slider .handle {
+    position: absolute;
+    border-radius: 50%;
+    height: 17px;
+    width: 18px;
+    border: 1px solid #8bc052;
+    background: #8bc052;
+
+    /* Support for bootstrap */
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    transform: translateY(-24%);
+    z-index: 99999;
+    cursor: pointer;
+}
+
+.slider .EE {
+    right: -4px;
+    cursor: pointer;
+}
+
+.slider .WW {
+    cursor: pointer;
+    left: -4px;
+}
+
+.slider .EE, .slider .WW {
+    top: 50%;
+    margin-top: -4px;
+}
+
+.play-container .button{
+    fill-opacity: 0.0;
+    stroke: #AAB;
+    stroke-width: 1.6;
+}
+
+.play-container .play, .play-container .stop {
+    fill: #BCE;
+    stroke: #AAB;
+    stroke-width: 1;
+}
+
+
